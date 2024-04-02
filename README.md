@@ -23,6 +23,7 @@ Test the C Program for the desired output.
 
 # PROGRAM:
 DEVELOPED BY: Ashwin Kumar A
+
 REG NO.     : 212223040021
 ## C Program to print process ID and parent Process ID using Linux API system calls
 ```
@@ -45,6 +46,7 @@ int main(void)
 	printf("The process id of parent function: %d\n",p_process_id);
 	return 0; }
 ```
+
 
 ## OUTPUT
 
@@ -84,6 +86,7 @@ int main() {
 
 
 
+
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 ```
 #include <stdio.h>
@@ -114,6 +117,7 @@ int main() {
     return 0;
 }
 ```
+
 
 ## OUTPUT
 ![image](https://github.com/AshwinKumar-Saveetha/Linux-Process-API-fork-wait-exec/assets/155129814/3e3a29f8-0de1-4e2c-b178-3e8515307656)
